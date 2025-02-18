@@ -25,4 +25,13 @@ Este proyecto está desarrollado con **HTML**, **CSS** y **JavaScript**, y tiene
    ```bash
    git clone https://github.com/c3sv/Challenge-Amigo-Secreto-Alura.git
 
+## Capturas de pantalla
 
+### Ejemplo de pantalla antes de agregar un amigo:
+![Captura antes de agregar un amigo](assets/Seets.png)
+
+### Ejemplo de pantalla después de agregar amigos:
+![Captura después de agregar amigos](assets/Seets2.png)
+
+### Ejemplo de pantalla después de realizar el sorteo:
+![Captura después de realizar el sorteo](assets/Seets3.png)
