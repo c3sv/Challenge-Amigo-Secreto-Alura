@@ -31,7 +31,7 @@ Este proyecto está desarrollado con **HTML**, **CSS** y **JavaScript**, y tiene
 ![Captura antes de agregar un amigo](Assets/Seets.png)
 
 ### Ejemplo de pantalla después de agregar amigos:
-![Captura después de agregar amigos](Assets/Seets_2.png)
+![Captura después de agregar amigos](Assets/Seets2.png)
 
 ### Ejemplo de pantalla después de realizar el sorteo:
-![Captura después de realizar el sorteo](Assets/Seets_3.png)
+![Captura después de realizar el sorteo](Assets/Seets3.png)
